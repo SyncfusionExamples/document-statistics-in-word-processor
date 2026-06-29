@@ -1,13 +1,14 @@
-# Document Statistics in Word Processor 
+# Document Statistics in DOCX Editor 
 
-This repository provides a working example demonstrating how to calculate the document statistics—such as word, character, paragraph, and page count—using the Syncfusion® Word Processor (Document Editor) component in a web application.  
+This repository provides a working example demonstrating how to calculate the document statistics—such as word, character, paragraph, and page count—using the Syncfusion<sup style="font-size:70%">&reg;</sup> [DOCX Editor](https://www.syncfusion.com/docx-editor-sdk/react-docx-editor?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples) (Document Editor) in a web application.
+
 # Resources 
 
-- **Product page:**   [Syncfusion® JavaScript Word Processor](https://www.syncfusion.com/javascript-ui-controls/js-docx-editor) 
+- **Product page:**   [Syncfusion® JavaScript DOCX Editor](https://www.syncfusion.com/javascript-ui-controls/js-docx-editor) 
 
-- **Documentation:**   [Syncfusion® Word Processor](https://help.syncfusion.com/document-processing/word/word-processor/javascript-es5/getting-started) 
+- **Documentation:**   [Syncfusion® DOCX Editor](https://help.syncfusion.com/document-processing/word/word-processor/javascript-es5/getting-started) 
 
-- **Online demo:**   [Syncfusion® Word Processor - Demo](https://ej2.syncfusion.com/javascript/demos/) 
+- **Online demo:**   [Syncfusion® DOCX Editor - Demo](https://ej2.syncfusion.com/javascript/demos/) 
 
 # Support and feedback 
 
